@@ -1,8 +1,8 @@
-#Important Notice:
+# Important Notice:
 
-###This repository is intended for testing purposes only. Do not use it for any production or critical tasks. I highly recommend running the scripts in a virtual machine to avoid any potential risks to your primary environment.
+## This repository is intended for testing purposes only. Do not use it for any production or critical tasks. I highly recommend running the scripts in a virtual machine to avoid any potential risks to your primary environment.
 
-###I will not be responsible for any damages or issues that arise from using this repository. By using the scripts, you acknowledge that you assume all risks associated with their use.
+## I will not be responsible for any damages or issues that arise from using this repository. By using the scripts, you acknowledge that you assume all risks associated with their use.
 
 # MacSonoma KDE Theme
 
