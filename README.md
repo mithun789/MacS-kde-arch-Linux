@@ -1,3 +1,9 @@
+#Important Notice:
+
+###This repository is intended for testing purposes only. Do not use it for any production or critical tasks. I highly recommend running the scripts in a virtual machine to avoid any potential risks to your primary environment.
+
+###I will not be responsible for any damages or issues that arise from using this repository. By using the scripts, you acknowledge that you assume all risks associated with their use.
+
 # MacSonoma KDE Theme
 
 A sleek and modern KDE Plasma theme inspired by macOS Sonoma, featuring glassy blur effects and a seamless user experience, optimized for Arch Linux.
@@ -41,7 +47,7 @@ And the following AUR packages:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/MacSonoma-kde.git
+   git clone https://github.com/mithun789/MacSonoma-kde.git
    ```
 
 2. Make the installation script executable:
@@ -133,7 +139,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 If you encounter any issues or have questions, please:
 
 1. Check the [FAQ](docs/FAQ.md)
-2. Search existing [Issues](https://github.com/yourusername/MacSonoma-kde/issues)
+2. Search existing [Issues](https://github.com/mithun789/MacSonoma-kde/issues)
 3. Create a new issue if needed
 4. Visit the Arch Linux forums or KDE forums for additional support
 
